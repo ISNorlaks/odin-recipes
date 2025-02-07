@@ -1,0 +1,24 @@
+.FantaD, .FantaNS, .Fantass {
+
+    font-family: Impact, fantasy;
+    background-color: bisque;
+    font-style: oblique;
+}
+
+
+.FantaD {
+
+    font-size: 20px;
+}
+
+.Fantass {
+
+    color: maroon;
+}
+
+
+.andale {
+
+    font-family: 'Andale Mono', monospace;
+    background-color: bisque;
+}
